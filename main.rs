@@ -1,4 +1,4 @@
-//Add comments to the code
+
 //Add a new route
 
 //use actix_web::{web, App, HttpResponse, HttpServer};
