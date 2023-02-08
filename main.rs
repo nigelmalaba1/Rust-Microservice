@@ -4,7 +4,7 @@
 //use actix_web::{web, App, HttpResponse, HttpServer};
 use actix_web::{web, App, HttpResponse, HttpServer};
 async fn index() -> HttpResponse {
-    HttpResponse::Ok().body("Hello, World!")
+    HttpResponse::Ok().body("I am a microservice, And I work!")
 }
 
 //async fn index() -> HttpResponse means that the function is asynchronous and returns a HttpResponse.
